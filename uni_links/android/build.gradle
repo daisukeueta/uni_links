@@ -27,7 +27,7 @@ android {
         namespace 'name.avioli.unilinks'
     }
     
-    compileSdkVersion 28
+    compileSdkVersion 31
 
     defaultConfig {
         minSdkVersion 16
